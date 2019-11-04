@@ -1,0 +1,13 @@
+body{
+	background-color: Beige;
+	font-family: Arial;
+	padding: 20px;
+	margin: 25px auto;
+	max-width: 750px;
+	width:80%;
+}
+h1
+ {
+  color: blue;
+  font-family: Arial;
+}
